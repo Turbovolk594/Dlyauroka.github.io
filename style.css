@@ -1,0 +1,83 @@
+body {
+	
+	cursor:url('cursor.png'), pointer;
+	
+}
+
+header {
+
+	background-color: #CEDDF3;
+	display: flex;
+	justify-content: space-between;
+	background-image: linear-gradient(to bottom, #990099 0%, #ff66ff 100%); 
+	
+}	
+
+section {
+
+	display: flex;
+	padding: 10px;
+	background-image: linear-gradient(to bottom, #ff33cc 0%, #cc33ff 100%);
+	align-items: center;
+	height: 70px
+	
+}
+
+.linkback { 
+
+	color: #1286fc;
+	font-family: 'Arial';
+	font-size: 40pt;
+	margin-left: 15px;
+	
+}
+
+.chat_name {
+
+	font-size: 20pt;
+	margin-left: 15px;
+	font-family: 'Arial';
+
+}
+
+.chat_members {
+
+	font-family: 'Arial';
+	font-size: 15pt;
+	color: #939597;
+
+}	
+
+.data {
+	
+	background: linear-gradient(to right, #ff33cc 0%, #66ff99 100%);
+    color: Black;
+    padding: 7px;
+    border-radius: 10px;
+	
+}
+
+.div {
+	background: linear-gradient(to right, #ff3300 0%, #ffff00 100%);
+	margin-left: 7px;
+	padding: 7px;
+    border-radius: 10px;
+	
+	
+	
+}
+
+
+.div2 {
+	background: linear-gradient(to right, #ff99ff 0%, #cc99ff 100%);
+	  padding: 7px;
+    border-radius: 10px;
+	
+	
+}
+
+
+
+
+
+
